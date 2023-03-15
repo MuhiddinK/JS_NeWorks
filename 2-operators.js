@@ -16,4 +16,7 @@ console.log(one === one_again); // true
 console.log(one == one_string); // true => checks the same value rgardles of the types
 console.log(one === one_string); // false => checks also the types
 
-// Logical
+// Logical (and= &&; or= ||; not= !)
+console.log((5<2) && (2>=3));
+console.log((5<2) || (2>=3));
+console.log(!(5==2));
