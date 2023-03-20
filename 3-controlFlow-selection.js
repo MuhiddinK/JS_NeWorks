@@ -30,3 +30,4 @@ switch (month) {
         dayCount = 28;
         break;
 } 
+
